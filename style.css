@@ -5,7 +5,7 @@ body {
 
 .navbar {
     background-color:#8d2809;
-    text-shadow: 1px 1px 2px #51632c;
+    text-shadow: 1px 1px 2px #1a203b;
 }
 
 .nav .nav-link.active {
@@ -20,12 +20,12 @@ body {
 }
 
 .navbar-toggler {
-    background-color: #51632c;
+    background-color: #1a203b;
 }
 
 .section-title {
     font-family: Pacifico, cursive;
-    text-shadow: 1px 1px 2px #51632c;
+    text-shadow: 1px 1px 2px #1a203b;
 }
 
 .section-title span {
@@ -34,9 +34,18 @@ body {
 
 #sobre-o-restaurante {
     background-color: #e6e3cc;
-    text-shadow: 1px 1px 2px #2b3518;
+    text-shadow: 1px 1px 2px #1a203b;
 }
 
+.text-colored {
+    color: #e88320
+}
+
+#eventos {
+    background-color: #1a203b;
+    text-shadow: 1px 1px 2px #812408;
+    color: #e6e3cc;
+}
 /* pallete: 
 #e88320
 #f6c684
