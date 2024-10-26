@@ -3,31 +3,44 @@ body {
     font-family: Roboto, sans-serif;
 }
 
-
-
 .navbar {
-    background-color: #21203f;
+    background-color:#8d2809;
+    text-shadow: 1px 1px 2px #51632c;
 }
 
 .nav .nav-link.active {
-    background-color: #faf8eb;
-    color: #21203f;
+    background-color: #f6c684;
+    color: #8d2809;
 }
 
 .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover {
-    color: #faf8eb;
-}
-
-
-.navbar-brand {
-    font-family: Pacifico, cursive;
+    color: #f6c684;
 }
 
 .navbar-toggler {
-    background-color: #faf8eb;
+    background-color: #51632c;
 }
 
+.section-title {
+    font-family: Pacifico, cursive;
+    text-shadow: 1px 1px 2px #51632c;
+}
 
-/* background-color: #faf8eb; */
+.section-title span {
+    color: #e88320;
+}
+
+#sobre-o-restaurante {
+    background-color: #e6e3cc;
+    text-shadow: 1px 1px 2px #2b3518;
+}
+
+/* pallete: 
+#e88320
+#f6c684
+#8d2809
+#93a96b
+#cbc8a8
+#51632c */
