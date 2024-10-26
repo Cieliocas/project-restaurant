@@ -4,63 +4,68 @@ body {
 }
 
 .navbar {
-    background-color:#8d2809;
-    text-shadow: 1px 1px 2px #1a203b;
+    background-color:#d8d2c279;
+    text-shadow: 1px 1px 2px #4A4947;
 }
 
 #cabecalho .nav .nav-link.active {
-    background-color: #f6c684;
-    color: #8d2809;
+    background-color: #4A4947;
+    color: #D8D2C2;
 }
 
 #cabecalho .nav .nav-link,
 .navbar-brand,
 .navbar-brand:hover
 .nav-cardapio .nav-link.active:hover {
-    color: #f6c684;
+    color: #B17457;
 }
 
 .navbar-toggler {
-    background-color: #1a203b;
+    background-color: #1a203b00;
 }
 
 .section-title {
     font-family: Pacifico, cursive;
-    text-shadow: 1px 1px 2px #1a203b;
+    text-shadow: 1px 1px 2px #4A4947;
 }
 
 .section-title span {
-    color: #e88320;
+    color: #B17457;
 }
 
-#sobre-o-restaurante, #cardapio{
-    background-color: #e4e2d59f;
-    text-shadow: 1px 1px 2px #1a203b;
+#sobre-cafeteria, #cardapio{
+    background-color: #FAF7F0;
+    text-shadow: 1px 1px 2px #4A4947;
 }
 
 .text-colored {
-    color: #e88320
+    color: #603F26;
+    text-shadow: 1px 1px 2px #603F26;
+}
+
+.text-colored2 {
+    color: #f6c684;
 }
 
 #eventos {
-    background-color: #1a203b;
-    text-shadow: 1px 1px 2px #812408;
+    background-color: #603F26;
+    text-shadow: 1px 1px 2px #D8D2C2;
     color: #e6e3cc;
 }
 
 .nav-cardapio button {
-    color: #1a203b;
+    color: #4A4947;
 }
 
 .nav-cardapio .nav-link.active, 
 #fale-conosco button {
-    background-color: #812408;
     color: #f6c684;
+    background-color: #603F26;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #f6c684;
-    background-color: #812408;
+    background-color: #4A4947;
+    color: #B17457;
 }
 
 .social-links li {
@@ -73,8 +78,8 @@ body {
 }
 
 #fale-conosco {
-    background-color: #812408;
-    text-shadow: 1px 1px 2px #1a203b;
+    background-color: #D8D2C2;
+    text-shadow: 2px 2px 4px #f6c684;
     color: #f6c684;
 }
 
@@ -83,16 +88,3 @@ body {
         height: 280px;
     }
 }
-
-
-
-
-
-
-/* pallete: 
-#e88320
-#f6c684
-#8d2809
-#93a96b
-#cbc8a8
-#51632c */
