@@ -24,4 +24,10 @@ body {
 .navbar-brand {
     font-family: Pacifico, cursive;
 }
+
+.navbar-toggler {
+    background-color: #faf8eb;
+}
+
+
 /* background-color: #faf8eb; */
