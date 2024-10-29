@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-    background-color:#d8d2c279;
+    background-color:#d8d2c2cb;
     text-shadow: 1px 1px 2px #4A4947;
 }
 
@@ -26,16 +26,22 @@ body {
 
 .section-title {
     font-family: Pacifico, cursive;
-    text-shadow: 1px 1px 2px #4A4947;
+    text-shadow: 1px 1px 2px #B17457;
 }
 
-.section-title span {
+.section-title .text-colored {
     color: #B17457;
+    text-shadow: 1px 1px 2px #000000;
+}
+
+.section-title .text-colored2 {
+    color: #f6c684;
+    text-shadow: 1px 1px 2px #B17457;
 }
 
 #sobre-cafeteria, #cardapio{
     background-color: #FAF7F0;
-    text-shadow: 1px 1px 2px #4A4947;
+    text-shadow: 1px 1px 2px #603F26;
 }
 
 .text-colored {
@@ -45,6 +51,7 @@ body {
 
 .text-colored2 {
     color: #f6c684;
+    text-shadow: 1px 1px 2px #603F26;
 }
 
 #eventos {
