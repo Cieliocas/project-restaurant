@@ -90,6 +90,10 @@ body {
     color: #f6c684;
 }
 
+
+
+
+
 @media (max-width: 767px) {
     .carousel-item img {
         height: 280px;
